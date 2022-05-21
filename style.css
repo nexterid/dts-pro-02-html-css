@@ -1,0 +1,19 @@
+body {
+  background-color: #009688;
+  font-family: "Crimson Pro", serif;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+div.center h1 {
+  color: white;
+}
